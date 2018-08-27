@@ -39,6 +39,6 @@ figcaption {
 
 /* ID selector */
 
-# {
-
+#logo {
+  background: aqua;
 }
